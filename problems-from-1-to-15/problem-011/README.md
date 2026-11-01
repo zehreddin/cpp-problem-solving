@@ -1,0 +1,1 @@
+Read marks for three students, calculate the average, and display PASS if the average is 50 or above; otherwise, display FAIL.Read marks for three students, calculate the average, and display PASS if the average is 50 or above; otherwise, display FAIL.
