@@ -1,1 +1,0 @@
-Calculates the area of a rectangle using its length and breadth.

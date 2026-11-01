@@ -1,1 +1,0 @@
-Write a program that reads two numbers from the user and prints the maximum number.

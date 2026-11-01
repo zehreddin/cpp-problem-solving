@@ -1,1 +1,0 @@
-Write a program that reads three numbers and prints the maximum number.

@@ -1,1 +1,0 @@
-Read three numbers and calculate their sum.

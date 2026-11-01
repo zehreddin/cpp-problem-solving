@@ -1,1 +1,0 @@
-Read marks for three students and calculate their average.
