@@ -1,0 +1,1 @@
+This program calculates the area of a rectangle using its diagonal and one side. It uses the Pythagorean theorem to calculate the other side, then multiplies both sides to find the area.

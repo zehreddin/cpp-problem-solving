@@ -1,0 +1,1 @@
+Calculates the area of a circle inscribed in a square by taking the square's side length as input and using it to determine the circle's radius.

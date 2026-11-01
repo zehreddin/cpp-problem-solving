@@ -1,0 +1,1 @@
+A C++ program that calculates the area of a circle using its circumference. The user enters the circumference, and the program applies the mathematical formula to calculate and display the circle's area.
